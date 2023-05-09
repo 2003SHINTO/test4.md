@@ -7,4 +7,7 @@
  
  ```
  fileptr=("filetxt","w")
- fileptr.write("python is a modern la")
+ fileptr.write("python is a modern language")
+ fileptr.close()
+ ```
+ [krishana kumar](https://github.com/kumarkrishna2003)
