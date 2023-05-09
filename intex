@@ -1,0 +1,10 @@
+1.create a public acc
+ 2.create anewfile
+ 3 create a changes
+ -name used.md
+ 
+ 
+ 
+ ```
+ fileptr=("filetxt","w")
+ fileptr.write("python is a modern la")
